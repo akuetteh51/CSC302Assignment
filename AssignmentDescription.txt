@@ -1,4 +1,3 @@
-# CSC302Assignment
 Write a program that randomly generates a random number which is not shown to the user (some sort of secret number). The random number should specifically be an integer between 1 and 99.
 
 The user is then asked to guess a number within the given range (1 to 99). If the user’s guess is higher than the one guessed by the program, the user should be prompted to try again as their guess is too high. If the user’s guess is lower than the one guessed by the program, the user should be prompted to guess again as their number is too low.
